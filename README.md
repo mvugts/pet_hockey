@@ -1,4 +1,4 @@
-# pet_hockey
+# learning_R_Python_with_field_hockey_data
 In this hobby project I learned some stuff about programming in R. and Python, using data from the hockey team that I coach.
 
 The goal is to create an interactive dashboard with performance indicators for the team and individual players. Once it works, it would be nice to create something useful for competitive (senior) hockey players and coaches like myself.
